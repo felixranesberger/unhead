@@ -35,7 +35,7 @@
     "unbuild": "^2.0.0",
     "utility-types": "^3.11.0",
     "vitest": "^2.0.5",
-    "vue": "3.4.32"
+    "vue": "3.4.38"
   },
   "resolutions": {
     "@nuxt/vite-builder": "3.12.4",
@@ -46,11 +46,11 @@
     "@unhead/shared": "workspace:*",
     "@unhead/ssr": "workspace:*",
     "@unhead/vue": "workspace:*",
-    "@vue/server-renderer": "3.4.32",
+    "@vue/server-renderer": "3.4.38",
     "nuxt": "3.12.4",
-    "shiki": "1.10.1",
+    "shiki": "1.14.1",
     "unhead": "workspace:*",
-    "vite": "5.3.4",
-    "vue": "3.4.32"
+    "vite": "5.4.2",
+    "vue": "3.4.38"
   }
 }
